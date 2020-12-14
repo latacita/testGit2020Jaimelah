@@ -3,3 +3,7 @@ DNI:
 Vacuna Elegida (Pfizer/Moderna/Oxford):
 
 Enviar antes del 20 de Enero 2021.
+
+72265443H Pfizer
+99999999J Moderna
+88888888H Oxford

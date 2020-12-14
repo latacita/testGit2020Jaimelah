@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (López-Agudo Higuera, Jaime):                             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(1)    git clone https://github.com/latacita/testGit2020Jaimelah.git
+(2)    git checkout -b DatosPersonales  En gitKraken se crea la rama en el apartado local
+(3)    Editado fichero PlanVacunacion.txt con 3 alumnos, guardado con ctrl+s
+(4)    Editado Archivo bitacora.txt guardado con ctrl+s
